@@ -1,4 +1,3 @@
 **Current Project :**
-- ElyziumGames Organisation (Elyzium, EnergyFight, FiveSky)
-- CubeGames Organisation (EndSky)
+- ElyziumGames Organisation (Elyzium, FiveSky)
 - ArmaCraft
