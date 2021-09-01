@@ -13,4 +13,4 @@ I'm a French developer
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NewZAZ&theme=dark-smoky&hide_border=true)](https://git.io/streak-stats)
 
-![NewZAZ's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NewZAZ&theme=jolly&hide_border=true&v=2)
+![NewZAZ's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NewZ_AZ&theme=jolly&hide_border=true&v=2)
