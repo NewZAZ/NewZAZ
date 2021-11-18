@@ -1,7 +1,7 @@
 # 👋 Hi there !
 I'm a French developer
 
-![](https://komarev.com/ghpvc/?username=NewZAZ&color=green&label=Viewers)
+![](https://komarev.com/ghpvc/?username=NewZAZ&color=green&label=Viewers&style=flat-square)
 
 # 🚀 What i use ?
 - [JAVA](https://docs.oracle.com/javase/8/docs/api/)
