@@ -8,7 +8,7 @@ I'm a French developer
 
 # 🎩 Current project
 
-- [MShade](https://github.com/MShadeDev)
+- [EarthSky](https://github.com/EartSky-Mc)
 
 # 💻 Stats
 
