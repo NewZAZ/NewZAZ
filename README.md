@@ -8,7 +8,7 @@ I'm a French developer
 
 # 🎩 Current project
 
-- [EarthSky](https://github.com/EartSky-Mc)
+- [EarthSky](https://github.com/EarthSky-Mc)
 
 # 💻 Stats
 
