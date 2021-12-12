@@ -9,6 +9,7 @@ I'm a French developer
 # 🎩 Current project
 
 - [EarthSky](https://github.com/EarthSky-Mc)
+- [MercuryService](https://github.com/MercuryService)
 
 # 💻 Stats
 
