@@ -10,7 +10,6 @@ I'm a French developer
 # 🎩 Current project
 
 - [RemainSky](https://github.com/RemainsLands)
-- [EarthSky](https://github.com/EarthSky-Mc)
 - [MercuryService](https://github.com/MercuryService)
 
 # 💻 Stats
