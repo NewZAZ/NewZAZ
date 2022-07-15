@@ -1,11 +1,11 @@
 # 👋 Hi there !
-I'm a French developer
+Hello my name is Benjamin, i'm a french developer. I learn Java since 3 years !
 
 ![](https://komarev.com/ghpvc/?username=NewZAZ&color=green&label=Viewers&style=flat-square)
 
 # 🚀 What i use ?
-- [JAVA](https://docs.oracle.com/javase/8/docs/api/)
-- [MONGODB](https://www.mongodb.com/docs/)
+- [Java](https://docs.oracle.com/javase/8/docs/api/)
+- [MongoDB](https://www.mongodb.com/docs/)
 
 # 🎩 Current project
 
