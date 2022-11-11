@@ -9,7 +9,7 @@ Hello my name is Benjamin, i'm a french developer. I learn Java since 3 years !
 
 # 🎩 Current project
 
-- [RemainSky](https://github.com/RemainsLands)
+- [RemainSky](https://github.com/RemainSky)
 - [MercuryService](https://github.com/MercuryService)
 
 # 💻 Stats
