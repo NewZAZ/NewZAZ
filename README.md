@@ -15,5 +15,3 @@ Hello my name is Benjamin, i'm a french developer. I learn Java since 3 years !
 # 💻 Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NewZAZ&theme=dracula&hide_border=true)](https://git.io/streak-stats)
-
-![NewZAZ's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NewZ_AZ&theme=dracula&hide_border=true&v=2)
