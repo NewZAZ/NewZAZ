@@ -1,16 +1,17 @@
 # 👋 Hi there !
-Hello my name is Benjamin, i'm a french developer. I learn Java since 3 years !
+Hello my name is Benjamin, i'm a french developer. I learn Java since 4 years !
+I'm backend go developer for Staffea (Alternance)
 
 ![](https://komarev.com/ghpvc/?username=NewZAZ&color=green&label=Viewers&style=flat-square)
 
 # 🚀 What i use ?
 - [Java](https://docs.oracle.com/javase/8/docs/api/)
-- [MongoDB](https://www.mongodb.com/docs/)
+- [GO](https://go.dev/)
 
 # 🎩 Current project
 
 - [RemainSky](https://github.com/RemainSky)
-- [MercuryService](https://github.com/MercuryService)
+- [Staffea](https://staffea.com/)
 
 # 💻 Stats
 
