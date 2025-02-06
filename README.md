@@ -1,6 +1,6 @@
 # 👋 Hi there !
-Hello my name is Benjamin, i'm a french developer. I learn Java since 4 years !
-I'm roblox develop for RIVR.
+Hello my name is Benjamin, i'm a french developer.
+I'm roblox developer for RIVRS.
 
 ![](https://komarev.com/ghpvc/?username=NewZAZ&color=green&label=Viewers&style=flat-square)
 
