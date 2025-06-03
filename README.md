@@ -1,6 +1,6 @@
 # 👋 Hi there !
 Hello my name is Benjamin, i'm a french developer.
-I'm roblox developer for RIVRS.
+I'm java developer for RIVRS.
 
 ![](https://komarev.com/ghpvc/?username=NewZAZ&color=green&label=Viewers&style=flat-square)
 
