@@ -14,4 +14,4 @@ I'm java developer for RIVRS.
 
 # 💻 Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NewZAZ&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=NewZAZ)](https://git.io/streak-stats)
