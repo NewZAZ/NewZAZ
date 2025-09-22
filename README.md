@@ -2,8 +2,6 @@
 Hello my name is Benjamin, i'm a french developer.
 I'm java developer for RIVRS.
 
-![](https://komarev.com/ghpvc/?username=NewZAZ&color=green&label=Viewers&style=flat-square)
-
 # 🚀 What i use ?
 - [Java](https://docs.oracle.com/javase/8/docs/api/)
 - [AdonisJS](https://adonisjs.com/)
