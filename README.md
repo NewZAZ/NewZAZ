@@ -14,4 +14,4 @@ I'm java developer for RIVRS.
 
 # 💻 Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=NewZAZ)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=NewZAZ&theme=dark)](https://git.io/streak-stats)
