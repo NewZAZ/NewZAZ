@@ -46,6 +46,4 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=NewZAZ&theme=tokyonight&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NewZAZ&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
-
 </div>
